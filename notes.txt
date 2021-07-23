@@ -3,3 +3,5 @@ Here are some notes..
 here are more notes here
 
 here is the last line!
+
+This is a brand new line in the other branch
