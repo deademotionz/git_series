@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-this is a OLD file!!
+this is a OLD file
+Here is a new PUSH line
 
-=======
-this is a interesting file!!
->>>>>>> conf
